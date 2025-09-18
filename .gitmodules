@@ -1,0 +1,6 @@
+[submodule "scriptrunner/bash-utilities"]
+	path = scriptrunner/bash-utilities
+	url = git@github.com:Kenny1217/bash-utilities.git
+[submodule "scriptrunner/python-utilities"]
+	path = scriptrunner/python-utilities
+	url = git@github.com:Kenny1217/python-utilities.git
